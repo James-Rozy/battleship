@@ -4,7 +4,8 @@
   "description": "Practice using Jest to test JS",
   "private": true,
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "webpack"
   },
   "author": "James Rozsypal",
   "license": "ISC",
