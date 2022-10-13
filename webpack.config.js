@@ -7,6 +7,9 @@ module.exports = {
     index: './src/index.js',
     pageLoad: './src/modules/pageLoad.js',
     header: './src/modules/header.js',
+    gameboard: './src/modules/gameboard.js',
+    ship: './src/modules/ship.js',
+    player: './src/modules/player.js',
   },
   devtool: 'inline-source-map',
   devServer: {
